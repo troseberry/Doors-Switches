@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Levels/4P/FourPlayer_newAssetTest.unity
+  isLoaded: 1
+  isActive: 1
